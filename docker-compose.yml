@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+  elevator:
+    build: .
+    ports:
+      - "8002:8002"
+  redis:
+    image: redis:alpine
+    ports:
+     - "6379:6379"
+    command: ["redis-server", "--appendonly", "yes"]
+
+    volumes:
+      - redis_data:/data
+
+  # Add your other services here
+
+volumes:
+  redis_data:
