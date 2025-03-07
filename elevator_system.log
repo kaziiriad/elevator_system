@@ -6569,3 +6569,591 @@
 2025-03-07 15:10:08,023 - service - INFO - Elevator is at idle state, Current Floor: 15
 2025-03-07 15:10:10,530 - service - INFO - No more floors to go to
 2025-03-07 15:10:10,530 - service - INFO - Elevator is at idle state, Current Floor: 15
+2025-03-07 15:11:51,686 - __main__ - INFO - Starting elevator service...
+2025-03-07 15:11:53,511 - main - INFO - Elevator service is starting up
+2025-03-07 15:23:20,054 - main - INFO - Elevator service is shutting down
+2025-03-07 15:23:22,036 - main - INFO - Elevator service is starting up
+2025-03-07 15:33:33,141 - main - INFO - Elevator service is shutting down
+2025-03-07 15:33:36,441 - main - INFO - Elevator service is starting up
+2025-03-07 15:33:36,946 - main - INFO - Elevator service is shutting down
+2025-03-07 15:33:38,850 - main - INFO - Elevator service is starting up
+2025-03-07 15:34:49,400 - main - INFO - Starting elevator simulation background task
+2025-03-07 15:34:49,445 - service - INFO - External call from floor 8 from floor 15, direction down
+2025-03-07 15:34:49,446 - service - INFO - External call from floor 16 from floor 15, direction down
+2025-03-07 15:34:49,446 - service - INFO - External call from floor 11 from floor 15, direction up
+2025-03-07 15:34:49,447 - service - INFO - External call from floor 13 from floor 15, direction down
+2025-03-07 15:34:49,447 - service - INFO - External call from floor 11 from floor 15, direction down
+2025-03-07 15:34:49,448 - service - INFO - External call from floor 12 from floor 15, direction up
+2025-03-07 15:34:49,448 - service - INFO - External call from floor 10 from floor 15, direction up
+2025-03-07 15:34:49,449 - service - INFO - External call from floor 5 from floor 15, direction up
+2025-03-07 15:34:49,449 - service - INFO - External call from floor 1 from floor 15, direction up
+2025-03-07 15:34:49,449 - service - INFO - External call from floor 16 from floor 15, direction down
+2025-03-07 15:34:49,461 - service - INFO - Moving down
+2025-03-07 15:34:49,461 - service - INFO - Current Floor: 15
+2025-03-07 15:34:50,465 - service - INFO - Moving down
+2025-03-07 15:34:50,465 - service - INFO - Current Floor: 14
+2025-03-07 15:34:51,469 - service - INFO - Moving down
+2025-03-07 15:34:51,469 - service - INFO - Current Floor: 13
+2025-03-07 15:34:52,471 - service - INFO - Reached 13
+2025-03-07 15:34:52,472 - service - INFO - Intended direction for floor 13: down
+2025-03-07 15:34:52,474 - service - INFO - Opening door...
+2025-03-07 15:34:54,476 - service - INFO - Closing door...
+2025-03-07 15:34:54,981 - service - INFO - Moving down
+2025-03-07 15:34:54,982 - service - INFO - Current Floor: 13
+2025-03-07 15:34:55,766 - service - INFO - Internal call to floor 11 from floor 13
+2025-03-07 15:34:55,984 - service - INFO - Moving down
+2025-03-07 15:34:55,984 - service - INFO - Current Floor: 12
+2025-03-07 15:34:56,987 - service - INFO - Reached 12
+2025-03-07 15:34:56,989 - service - INFO - Intended direction for floor 12: up
+2025-03-07 15:34:56,990 - service - INFO - Opening door...
+2025-03-07 15:34:57,827 - service - INFO - Internal call to floor 6 from floor 12
+2025-03-07 15:34:58,992 - service - INFO - Closing door...
+2025-03-07 15:34:59,497 - service - INFO - Moving up
+2025-03-07 15:34:59,498 - service - INFO - Current Floor: 12
+2025-03-07 15:35:00,501 - service - INFO - Moving up
+2025-03-07 15:35:00,501 - service - INFO - Current Floor: 13
+2025-03-07 15:35:01,505 - service - INFO - Moving up
+2025-03-07 15:35:01,505 - service - INFO - Current Floor: 14
+2025-03-07 15:35:02,508 - service - INFO - Moving up
+2025-03-07 15:35:02,509 - service - INFO - Current Floor: 15
+2025-03-07 15:35:03,511 - service - INFO - Moving up
+2025-03-07 15:35:03,512 - service - INFO - Current Floor: 16
+2025-03-07 15:35:04,026 - service - INFO - Internal call to floor 20 from floor 16
+2025-03-07 15:35:04,027 - service - INFO - Internal call to floor 14 from floor 16
+2025-03-07 15:35:04,514 - service - INFO - Reached 16
+2025-03-07 15:35:04,516 - service - INFO - Intended direction for floor 16: down
+2025-03-07 15:35:04,517 - service - INFO - Opening door...
+2025-03-07 15:35:06,519 - service - INFO - Closing door...
+2025-03-07 15:35:07,024 - service - INFO - Moving down
+2025-03-07 15:35:07,024 - service - INFO - Current Floor: 16
+2025-03-07 15:35:08,028 - service - INFO - Moving down
+2025-03-07 15:35:08,028 - service - INFO - Current Floor: 15
+2025-03-07 15:35:09,031 - service - INFO - Moving down
+2025-03-07 15:35:09,031 - service - INFO - Current Floor: 14
+2025-03-07 15:35:10,034 - service - INFO - Reached 14
+2025-03-07 15:35:10,036 - service - INFO - Opening door...
+2025-03-07 15:35:12,037 - service - INFO - Closing door...
+2025-03-07 15:35:12,544 - service - INFO - Moving down
+2025-03-07 15:35:12,545 - service - INFO - Current Floor: 14
+2025-03-07 15:35:13,548 - service - INFO - Moving down
+2025-03-07 15:35:13,548 - service - INFO - Current Floor: 13
+2025-03-07 15:35:14,550 - service - INFO - Moving down
+2025-03-07 15:35:14,551 - service - INFO - Current Floor: 12
+2025-03-07 15:35:15,553 - service - INFO - Moving down
+2025-03-07 15:35:15,554 - service - INFO - Current Floor: 11
+2025-03-07 15:35:16,356 - service - INFO - Internal call to floor 9 from floor 11
+2025-03-07 15:35:16,356 - service - INFO - Internal call to floor 5 from floor 11
+2025-03-07 15:35:16,557 - service - INFO - Reached 11
+2025-03-07 15:35:16,558 - service - INFO - Intended direction for floor 11: down
+2025-03-07 15:35:16,563 - service - INFO - Opening door...
+2025-03-07 15:35:18,565 - service - INFO - Closing door...
+2025-03-07 15:35:19,071 - service - INFO - Moving down
+2025-03-07 15:35:19,071 - service - INFO - Current Floor: 11
+2025-03-07 15:35:20,075 - service - INFO - Moving down
+2025-03-07 15:35:20,075 - service - INFO - Current Floor: 10
+2025-03-07 15:35:20,495 - service - INFO - Internal call to floor 9 from floor 10
+2025-03-07 15:35:21,078 - service - INFO - Reached 10
+2025-03-07 15:35:21,079 - service - INFO - Intended direction for floor 10: up
+2025-03-07 15:35:21,081 - service - INFO - Opening door...
+2025-03-07 15:35:23,082 - service - INFO - Closing door...
+2025-03-07 15:35:23,474 - service - INFO - External call from floor 11 from floor 10, direction down
+2025-03-07 15:35:23,588 - service - INFO - Moving up
+2025-03-07 15:35:23,588 - service - INFO - Current Floor: 10
+2025-03-07 15:35:24,592 - service - INFO - Moving up
+2025-03-07 15:35:24,593 - service - INFO - Current Floor: 11
+2025-03-07 15:35:25,595 - service - INFO - Reached 11
+2025-03-07 15:35:25,596 - service - INFO - Intended direction for floor 11: down
+2025-03-07 15:35:25,598 - service - INFO - Opening door...
+2025-03-07 15:35:25,881 - service - INFO - External call from floor 14 from floor 11, direction up
+2025-03-07 15:35:27,600 - service - INFO - Closing door...
+2025-03-07 15:35:28,106 - service - INFO - Moving down
+2025-03-07 15:35:28,106 - service - INFO - Current Floor: 11
+2025-03-07 15:35:29,110 - service - INFO - Moving down
+2025-03-07 15:35:29,110 - service - INFO - Current Floor: 10
+2025-03-07 15:35:30,113 - service - INFO - Moving down
+2025-03-07 15:35:30,114 - service - INFO - Current Floor: 9
+2025-03-07 15:35:31,117 - service - INFO - Reached 9
+2025-03-07 15:35:31,118 - service - INFO - Opening door...
+2025-03-07 15:35:33,120 - service - INFO - Closing door...
+2025-03-07 15:35:33,625 - service - INFO - Moving down
+2025-03-07 15:35:33,626 - service - INFO - Current Floor: 9
+2025-03-07 15:35:34,629 - service - INFO - Moving down
+2025-03-07 15:35:34,629 - service - INFO - Current Floor: 8
+2025-03-07 15:35:34,896 - service - INFO - Internal call to floor 10 from floor 8
+2025-03-07 15:35:35,632 - service - INFO - Reached 8
+2025-03-07 15:35:35,633 - service - INFO - Intended direction for floor 8: down
+2025-03-07 15:35:35,634 - service - INFO - Opening door...
+2025-03-07 15:35:37,635 - service - INFO - Closing door...
+2025-03-07 15:35:38,141 - service - INFO - Moving down
+2025-03-07 15:35:38,141 - service - INFO - Current Floor: 8
+2025-03-07 15:35:39,145 - service - INFO - Moving down
+2025-03-07 15:35:39,145 - service - INFO - Current Floor: 7
+2025-03-07 15:35:40,148 - service - INFO - Moving down
+2025-03-07 15:35:40,148 - service - INFO - Current Floor: 6
+2025-03-07 15:35:41,150 - service - INFO - Reached 6
+2025-03-07 15:35:41,152 - service - INFO - Opening door...
+2025-03-07 15:35:43,152 - service - INFO - Closing door...
+2025-03-07 15:35:43,657 - service - INFO - Moving down
+2025-03-07 15:35:43,658 - service - INFO - Current Floor: 6
+2025-03-07 15:35:44,660 - service - INFO - Moving down
+2025-03-07 15:35:44,660 - service - INFO - Current Floor: 5
+2025-03-07 15:35:45,144 - service - INFO - Internal call to floor 14 from floor 5
+2025-03-07 15:35:45,663 - service - INFO - Reached 5
+2025-03-07 15:35:45,664 - service - INFO - Intended direction for floor 5: up
+2025-03-07 15:35:45,665 - service - INFO - Opening door...
+2025-03-07 15:35:46,018 - service - INFO - External call from floor 9 from floor 5, direction up
+2025-03-07 15:35:47,667 - service - INFO - Closing door...
+2025-03-07 15:35:48,172 - service - INFO - Moving up
+2025-03-07 15:35:48,172 - service - INFO - Current Floor: 5
+2025-03-07 15:35:49,175 - service - INFO - Moving up
+2025-03-07 15:35:49,175 - service - INFO - Current Floor: 6
+2025-03-07 15:35:50,178 - service - INFO - Moving up
+2025-03-07 15:35:50,178 - service - INFO - Current Floor: 7
+2025-03-07 15:35:50,323 - service - INFO - External call from floor 9 from floor 7, direction down
+2025-03-07 15:35:51,181 - service - INFO - Moving up
+2025-03-07 15:35:51,181 - service - INFO - Current Floor: 8
+2025-03-07 15:35:52,184 - service - INFO - Moving up
+2025-03-07 15:35:52,184 - service - INFO - Current Floor: 9
+2025-03-07 15:35:52,284 - service - INFO - Internal call to floor 11 from floor 9
+2025-03-07 15:35:53,187 - service - INFO - Reached 9
+2025-03-07 15:35:53,188 - service - INFO - Intended direction for floor 9: down
+2025-03-07 15:35:53,190 - service - INFO - Opening door...
+2025-03-07 15:35:55,190 - service - INFO - Closing door...
+2025-03-07 15:35:55,696 - service - INFO - Moving down
+2025-03-07 15:35:55,697 - service - INFO - Current Floor: 9
+2025-03-07 15:35:55,964 - service - INFO - External call from floor 5 from floor 9, direction up
+2025-03-07 15:35:56,544 - service - INFO - Internal call to floor 10 from floor 9
+2025-03-07 15:35:56,701 - service - INFO - Moving down
+2025-03-07 15:35:56,701 - service - INFO - Current Floor: 8
+2025-03-07 15:35:57,704 - service - INFO - Moving down
+2025-03-07 15:35:57,705 - service - INFO - Current Floor: 7
+2025-03-07 15:35:57,920 - service - INFO - External call from floor 6 from floor 7, direction up
+2025-03-07 15:35:58,707 - service - INFO - Moving down
+2025-03-07 15:35:58,708 - service - INFO - Current Floor: 6
+2025-03-07 15:35:59,711 - service - INFO - Moving down
+2025-03-07 15:35:59,711 - service - INFO - Current Floor: 5
+2025-03-07 15:36:00,714 - service - INFO - Moving down
+2025-03-07 15:36:00,715 - service - INFO - Current Floor: 4
+2025-03-07 15:36:01,717 - service - INFO - Moving down
+2025-03-07 15:36:01,718 - service - INFO - Current Floor: 3
+2025-03-07 15:36:02,720 - service - INFO - Moving down
+2025-03-07 15:36:02,721 - service - INFO - Current Floor: 2
+2025-03-07 15:36:03,723 - service - INFO - Moving down
+2025-03-07 15:36:03,724 - service - INFO - Current Floor: 1
+2025-03-07 15:36:04,726 - service - INFO - Reached 1
+2025-03-07 15:36:04,727 - service - INFO - Intended direction for floor 1: up
+2025-03-07 15:36:04,729 - service - INFO - Opening door...
+2025-03-07 15:36:06,730 - service - INFO - Closing door...
+2025-03-07 15:36:07,236 - service - INFO - Moving up
+2025-03-07 15:36:07,237 - service - INFO - Current Floor: 1
+2025-03-07 15:36:08,239 - service - INFO - Moving up
+2025-03-07 15:36:08,240 - service - INFO - Current Floor: 2
+2025-03-07 15:36:09,244 - service - INFO - Moving up
+2025-03-07 15:36:09,244 - service - INFO - Current Floor: 3
+2025-03-07 15:36:10,247 - service - INFO - Moving up
+2025-03-07 15:36:10,247 - service - INFO - Current Floor: 4
+2025-03-07 15:36:10,697 - service - INFO - External call from floor 1 from floor 4, direction up
+2025-03-07 15:36:11,251 - service - INFO - Moving up
+2025-03-07 15:36:11,251 - service - INFO - Current Floor: 5
+2025-03-07 15:36:11,918 - service - INFO - External call from floor 20 from floor 5, direction down
+2025-03-07 15:36:12,253 - service - INFO - Moving up
+2025-03-07 15:36:12,254 - service - INFO - Current Floor: 6
+2025-03-07 15:36:12,365 - service - INFO - Internal call to floor 3 from floor 6
+2025-03-07 15:36:13,257 - service - INFO - Moving up
+2025-03-07 15:36:13,257 - service - INFO - Current Floor: 7
+2025-03-07 15:36:14,259 - service - INFO - Moving up
+2025-03-07 15:36:14,259 - service - INFO - Current Floor: 8
+2025-03-07 15:36:15,262 - service - INFO - Moving up
+2025-03-07 15:36:15,262 - service - INFO - Current Floor: 9
+2025-03-07 15:36:16,266 - service - INFO - Reached 9
+2025-03-07 15:36:16,267 - service - INFO - Opening door...
+2025-03-07 15:36:18,268 - service - INFO - Closing door...
+2025-03-07 15:36:18,773 - service - INFO - Moving up
+2025-03-07 15:36:18,773 - service - INFO - Current Floor: 9
+2025-03-07 15:36:19,776 - service - INFO - Moving up
+2025-03-07 15:36:19,776 - service - INFO - Current Floor: 10
+2025-03-07 15:36:20,779 - service - INFO - Reached 10
+2025-03-07 15:36:20,780 - service - INFO - Opening door...
+2025-03-07 15:36:22,781 - service - INFO - Closing door...
+2025-03-07 15:36:23,286 - service - INFO - Moving up
+2025-03-07 15:36:23,287 - service - INFO - Current Floor: 10
+2025-03-07 15:36:24,289 - service - INFO - Moving up
+2025-03-07 15:36:24,290 - service - INFO - Current Floor: 11
+2025-03-07 15:36:25,293 - service - INFO - Reached 11
+2025-03-07 15:36:25,294 - service - INFO - Opening door...
+2025-03-07 15:36:27,296 - service - INFO - Closing door...
+2025-03-07 15:36:27,803 - service - INFO - Moving up
+2025-03-07 15:36:27,803 - service - INFO - Current Floor: 11
+2025-03-07 15:36:28,806 - service - INFO - Moving up
+2025-03-07 15:36:28,806 - service - INFO - Current Floor: 12
+2025-03-07 15:36:29,810 - service - INFO - Moving up
+2025-03-07 15:36:29,810 - service - INFO - Current Floor: 13
+2025-03-07 15:36:30,812 - service - INFO - Moving up
+2025-03-07 15:36:30,813 - service - INFO - Current Floor: 14
+2025-03-07 15:36:31,817 - service - INFO - Reached 14
+2025-03-07 15:36:31,818 - service - INFO - Intended direction for floor 14: up
+2025-03-07 15:36:31,820 - service - INFO - Opening door...
+2025-03-07 15:36:33,821 - service - INFO - Closing door...
+2025-03-07 15:36:34,326 - service - INFO - Moving up
+2025-03-07 15:36:34,327 - service - INFO - Current Floor: 14
+2025-03-07 15:36:34,591 - service - INFO - External call from floor 11 from floor 14, direction down
+2025-03-07 15:36:35,330 - service - INFO - Moving up
+2025-03-07 15:36:35,330 - service - INFO - Current Floor: 15
+2025-03-07 15:36:36,333 - service - INFO - Moving up
+2025-03-07 15:36:36,333 - service - INFO - Current Floor: 16
+2025-03-07 15:36:37,337 - service - INFO - Moving up
+2025-03-07 15:36:37,337 - service - INFO - Current Floor: 17
+2025-03-07 15:36:38,139 - service - INFO - External call from floor 10 from floor 17, direction up
+2025-03-07 15:36:38,340 - service - INFO - Moving up
+2025-03-07 15:36:38,341 - service - INFO - Current Floor: 18
+2025-03-07 15:36:38,767 - service - INFO - External call from floor 14 from floor 18, direction up
+2025-03-07 15:36:39,070 - service - INFO - External call from floor 10 from floor 18, direction up
+2025-03-07 15:36:39,344 - service - INFO - Moving up
+2025-03-07 15:36:39,345 - service - INFO - Current Floor: 19
+2025-03-07 15:36:40,347 - service - INFO - Moving up
+2025-03-07 15:36:40,348 - service - INFO - Current Floor: 20
+2025-03-07 15:36:40,762 - service - INFO - Internal call to floor 13 from floor 20
+2025-03-07 15:36:41,352 - service - INFO - Reached 20
+2025-03-07 15:36:41,353 - service - INFO - Intended direction for floor 20: down
+2025-03-07 15:36:41,354 - service - INFO - Opening door...
+2025-03-07 15:36:42,058 - service - INFO - External call from floor 14 from floor 20, direction down
+2025-03-07 15:36:42,279 - service - INFO - External call from floor 11 from floor 20, direction down
+2025-03-07 15:36:43,356 - service - INFO - Closing door...
+2025-03-07 15:36:43,862 - service - INFO - Moving down
+2025-03-07 15:36:43,862 - service - INFO - Current Floor: 20
+2025-03-07 15:36:44,865 - service - INFO - Moving down
+2025-03-07 15:36:44,866 - service - INFO - Current Floor: 19
+2025-03-07 15:36:45,868 - service - INFO - Moving down
+2025-03-07 15:36:45,868 - service - INFO - Current Floor: 18
+2025-03-07 15:36:46,872 - service - INFO - Moving down
+2025-03-07 15:36:46,873 - service - INFO - Current Floor: 17
+2025-03-07 15:36:47,875 - service - INFO - Moving down
+2025-03-07 15:36:47,876 - service - INFO - Current Floor: 16
+2025-03-07 15:36:48,878 - service - INFO - Moving down
+2025-03-07 15:36:48,879 - service - INFO - Current Floor: 15
+2025-03-07 15:36:49,882 - service - INFO - Moving down
+2025-03-07 15:36:49,882 - service - INFO - Current Floor: 14
+2025-03-07 15:36:50,362 - service - INFO - Internal call to floor 2 from floor 14
+2025-03-07 15:36:50,885 - service - INFO - Reached 14
+2025-03-07 15:36:50,886 - service - INFO - Intended direction for floor 14: down
+2025-03-07 15:36:50,887 - service - INFO - Opening door...
+2025-03-07 15:36:51,173 - service - INFO - Internal call to floor 16 from floor 14
+2025-03-07 15:36:52,889 - service - INFO - Closing door...
+2025-03-07 15:36:53,394 - service - INFO - Moving down
+2025-03-07 15:36:53,395 - service - INFO - Current Floor: 14
+2025-03-07 15:36:54,399 - service - INFO - Moving down
+2025-03-07 15:36:54,399 - service - INFO - Current Floor: 13
+2025-03-07 15:36:55,402 - service - INFO - Reached 13
+2025-03-07 15:36:55,403 - service - INFO - Opening door...
+2025-03-07 15:36:57,404 - service - INFO - Closing door...
+2025-03-07 15:36:57,909 - service - INFO - Moving down
+2025-03-07 15:36:57,910 - service - INFO - Current Floor: 13
+2025-03-07 15:36:58,913 - service - INFO - Moving down
+2025-03-07 15:36:58,913 - service - INFO - Current Floor: 12
+2025-03-07 15:36:59,915 - service - INFO - Moving down
+2025-03-07 15:36:59,916 - service - INFO - Current Floor: 11
+2025-03-07 15:37:00,852 - service - INFO - Internal call to floor 3 from floor 11
+2025-03-07 15:37:00,919 - service - INFO - Reached 11
+2025-03-07 15:37:00,920 - service - INFO - Intended direction for floor 11: down
+2025-03-07 15:37:00,922 - service - INFO - Opening door...
+2025-03-07 15:37:01,179 - service - INFO - External call from floor 13 from floor 11, direction up
+2025-03-07 15:37:01,372 - service - INFO - Internal call to floor 17 from floor 11
+2025-03-07 15:37:02,924 - service - INFO - Closing door...
+2025-03-07 15:37:03,429 - service - INFO - Moving down
+2025-03-07 15:37:03,429 - service - INFO - Current Floor: 11
+2025-03-07 15:37:04,432 - service - INFO - Moving down
+2025-03-07 15:37:04,432 - service - INFO - Current Floor: 10
+2025-03-07 15:37:04,933 - service - INFO - Internal call to floor 20 from floor 10
+2025-03-07 15:37:05,435 - service - INFO - Reached 10
+2025-03-07 15:37:05,436 - service - INFO - Intended direction for floor 10: up
+2025-03-07 15:37:05,438 - service - INFO - Opening door...
+2025-03-07 15:37:05,852 - service - INFO - Internal call to floor 12 from floor 10
+2025-03-07 15:37:07,439 - service - INFO - Closing door...
+2025-03-07 15:37:07,945 - service - INFO - Moving up
+2025-03-07 15:37:07,945 - service - INFO - Current Floor: 10
+2025-03-07 15:37:08,947 - service - INFO - Moving up
+2025-03-07 15:37:08,948 - service - INFO - Current Floor: 11
+2025-03-07 15:37:09,951 - service - INFO - Moving up
+2025-03-07 15:37:09,951 - service - INFO - Current Floor: 12
+2025-03-07 15:37:10,954 - service - INFO - Reached 12
+2025-03-07 15:37:10,955 - service - INFO - Opening door...
+2025-03-07 15:37:12,956 - service - INFO - Closing door...
+2025-03-07 15:37:13,461 - service - INFO - Moving up
+2025-03-07 15:37:13,462 - service - INFO - Current Floor: 12
+2025-03-07 15:37:14,464 - service - INFO - Moving up
+2025-03-07 15:37:14,464 - service - INFO - Current Floor: 13
+2025-03-07 15:37:15,467 - service - INFO - Reached 13
+2025-03-07 15:37:15,468 - service - INFO - Intended direction for floor 13: up
+2025-03-07 15:37:15,470 - service - INFO - Opening door...
+2025-03-07 15:37:15,661 - service - INFO - Internal call to floor 10 from floor 13
+2025-03-07 15:37:17,449 - service - INFO - External call from floor 5 from floor 13, direction up
+2025-03-07 15:37:17,470 - service - INFO - Closing door...
+2025-03-07 15:37:17,975 - service - INFO - Moving up
+2025-03-07 15:37:17,976 - service - INFO - Current Floor: 13
+2025-03-07 15:37:18,978 - service - INFO - Moving up
+2025-03-07 15:37:18,978 - service - INFO - Current Floor: 14
+2025-03-07 15:37:19,981 - service - INFO - Moving up
+2025-03-07 15:37:19,982 - service - INFO - Current Floor: 15
+2025-03-07 15:37:20,984 - service - INFO - Moving up
+2025-03-07 15:37:20,984 - service - INFO - Current Floor: 16
+2025-03-07 15:37:21,987 - service - INFO - Reached 16
+2025-03-07 15:37:21,988 - service - INFO - Opening door...
+2025-03-07 15:37:23,989 - service - INFO - Closing door...
+2025-03-07 15:37:24,494 - service - INFO - Moving up
+2025-03-07 15:37:24,494 - service - INFO - Current Floor: 16
+2025-03-07 15:37:25,483 - service - INFO - External call from floor 1 from floor 16, direction up
+2025-03-07 15:37:25,497 - service - INFO - Moving up
+2025-03-07 15:37:25,498 - service - INFO - Current Floor: 17
+2025-03-07 15:37:25,991 - service - INFO - External call from floor 3 from floor 17, direction up
+2025-03-07 15:37:26,500 - service - INFO - Reached 17
+2025-03-07 15:37:26,501 - service - INFO - Opening door...
+2025-03-07 15:37:27,690 - service - INFO - External call from floor 12 from floor 17, direction down
+2025-03-07 15:37:28,503 - service - INFO - Closing door...
+2025-03-07 15:37:29,010 - service - INFO - Moving up
+2025-03-07 15:37:29,010 - service - INFO - Current Floor: 17
+2025-03-07 15:37:30,013 - service - INFO - Moving up
+2025-03-07 15:37:30,013 - service - INFO - Current Floor: 18
+2025-03-07 15:37:31,016 - service - INFO - Moving up
+2025-03-07 15:37:31,016 - service - INFO - Current Floor: 19
+2025-03-07 15:37:32,018 - service - INFO - Moving up
+2025-03-07 15:37:32,019 - service - INFO - Current Floor: 20
+2025-03-07 15:37:33,022 - service - INFO - Reached 20
+2025-03-07 15:37:33,023 - service - INFO - Opening door...
+2025-03-07 15:37:35,024 - service - INFO - Closing door...
+2025-03-07 15:37:35,531 - service - INFO - Moving down
+2025-03-07 15:37:35,531 - service - INFO - Current Floor: 20
+2025-03-07 15:37:36,534 - service - INFO - Moving down
+2025-03-07 15:37:36,534 - service - INFO - Current Floor: 19
+2025-03-07 15:37:37,537 - service - INFO - Moving down
+2025-03-07 15:37:37,537 - service - INFO - Current Floor: 18
+2025-03-07 15:37:38,540 - service - INFO - Moving down
+2025-03-07 15:37:38,541 - service - INFO - Current Floor: 17
+2025-03-07 15:37:39,543 - service - INFO - Moving down
+2025-03-07 15:37:39,543 - service - INFO - Current Floor: 16
+2025-03-07 15:37:39,925 - service - INFO - External call from floor 16 from floor 16, direction down
+2025-03-07 15:37:39,925 - service - INFO - Already at floor
+2025-03-07 15:37:39,929 - service - ERROR - Error in call function at service.py:118: local variable 'pickup_queue' referenced before assignment
+2025-03-07 15:37:39,931 - main - ERROR - Error processing down call request: local variable 'pickup_queue' referenced before assignment
+2025-03-07 15:37:40,546 - service - INFO - Moving down
+2025-03-07 15:37:40,546 - service - INFO - Current Floor: 15
+2025-03-07 15:37:41,549 - service - INFO - Moving down
+2025-03-07 15:37:41,549 - service - INFO - Current Floor: 14
+2025-03-07 15:37:42,552 - service - INFO - Moving down
+2025-03-07 15:37:42,552 - service - INFO - Current Floor: 13
+2025-03-07 15:37:43,555 - service - INFO - Moving down
+2025-03-07 15:37:43,556 - service - INFO - Current Floor: 12
+2025-03-07 15:37:44,200 - service - INFO - Internal call to floor 8 from floor 12
+2025-03-07 15:37:44,558 - service - INFO - Reached 12
+2025-03-07 15:37:44,559 - service - INFO - Intended direction for floor 12: down
+2025-03-07 15:37:44,560 - service - INFO - Opening door...
+2025-03-07 15:37:44,604 - service - INFO - External call from floor 17 from floor 12, direction up
+2025-03-07 15:37:45,793 - service - INFO - External call from floor 20 from floor 12, direction down
+2025-03-07 15:37:46,562 - service - INFO - Closing door...
+2025-03-07 15:37:47,066 - service - INFO - Moving down
+2025-03-07 15:37:47,067 - service - INFO - Current Floor: 12
+2025-03-07 15:37:48,070 - service - INFO - Moving down
+2025-03-07 15:37:48,071 - service - INFO - Current Floor: 11
+2025-03-07 15:37:49,074 - service - INFO - Moving down
+2025-03-07 15:37:49,074 - service - INFO - Current Floor: 10
+2025-03-07 15:37:50,077 - service - INFO - Reached 10
+2025-03-07 15:37:50,078 - service - INFO - Opening door...
+2025-03-07 15:37:51,623 - service - INFO - External call from floor 16 from floor 10, direction up
+2025-03-07 15:37:52,079 - service - INFO - Closing door...
+2025-03-07 15:37:52,584 - service - INFO - Moving down
+2025-03-07 15:37:52,584 - service - INFO - Current Floor: 10
+2025-03-07 15:37:53,588 - service - INFO - Moving down
+2025-03-07 15:37:53,588 - service - INFO - Current Floor: 9
+2025-03-07 15:37:54,591 - service - INFO - Moving down
+2025-03-07 15:37:54,591 - service - INFO - Current Floor: 8
+2025-03-07 15:37:55,594 - service - INFO - Reached 8
+2025-03-07 15:37:55,595 - service - INFO - Opening door...
+2025-03-07 15:37:57,596 - service - INFO - Closing door...
+2025-03-07 15:37:58,102 - service - INFO - Moving down
+2025-03-07 15:37:58,102 - service - INFO - Current Floor: 8
+2025-03-07 15:37:59,104 - service - INFO - Moving down
+2025-03-07 15:37:59,105 - service - INFO - Current Floor: 7
+2025-03-07 15:38:00,108 - service - INFO - Moving down
+2025-03-07 15:38:00,108 - service - INFO - Current Floor: 6
+2025-03-07 15:38:00,542 - service - INFO - External call from floor 10 from floor 6, direction up
+2025-03-07 15:38:01,111 - service - INFO - Reached 6
+2025-03-07 15:38:01,112 - service - INFO - Intended direction for floor 6: up
+2025-03-07 15:38:01,113 - service - INFO - Opening door...
+2025-03-07 15:38:03,114 - service - INFO - Closing door...
+2025-03-07 15:38:03,619 - service - INFO - Moving up
+2025-03-07 15:38:03,619 - service - INFO - Current Floor: 6
+2025-03-07 15:38:04,622 - service - INFO - Moving up
+2025-03-07 15:38:04,623 - service - INFO - Current Floor: 7
+2025-03-07 15:38:05,626 - service - INFO - Moving up
+2025-03-07 15:38:05,626 - service - INFO - Current Floor: 8
+2025-03-07 15:38:06,629 - service - INFO - Moving up
+2025-03-07 15:38:06,630 - service - INFO - Current Floor: 9
+2025-03-07 15:38:07,633 - service - INFO - Moving up
+2025-03-07 15:38:07,633 - service - INFO - Current Floor: 10
+2025-03-07 15:38:07,679 - service - INFO - External call from floor 8 from floor 10, direction up
+2025-03-07 15:38:07,966 - service - INFO - External call from floor 2 from floor 10, direction up
+2025-03-07 15:38:08,637 - service - INFO - Reached 10
+2025-03-07 15:38:08,638 - service - INFO - Intended direction for floor 10: up
+2025-03-07 15:38:08,640 - service - INFO - Opening door...
+2025-03-07 15:38:08,860 - service - INFO - Internal call to floor 16 from floor 10
+2025-03-07 15:38:10,641 - service - INFO - Closing door...
+2025-03-07 15:38:11,146 - service - INFO - Moving up
+2025-03-07 15:38:11,146 - service - INFO - Current Floor: 10
+2025-03-07 15:38:12,149 - service - INFO - Moving up
+2025-03-07 15:38:12,149 - service - INFO - Current Floor: 11
+2025-03-07 15:38:13,152 - service - INFO - Moving up
+2025-03-07 15:38:13,152 - service - INFO - Current Floor: 12
+2025-03-07 15:38:14,155 - service - INFO - Moving up
+2025-03-07 15:38:14,155 - service - INFO - Current Floor: 13
+2025-03-07 15:38:15,158 - service - INFO - Moving up
+2025-03-07 15:38:15,158 - service - INFO - Current Floor: 14
+2025-03-07 15:38:16,161 - service - INFO - Moving up
+2025-03-07 15:38:16,161 - service - INFO - Current Floor: 15
+2025-03-07 15:38:17,164 - service - INFO - Moving up
+2025-03-07 15:38:17,164 - service - INFO - Current Floor: 16
+2025-03-07 15:38:18,167 - service - INFO - Reached 16
+2025-03-07 15:38:18,168 - service - INFO - Intended direction for floor 16: up
+2025-03-07 15:38:18,170 - service - INFO - Opening door...
+2025-03-07 15:38:18,399 - service - INFO - Internal call to floor 2 from floor 16
+2025-03-07 15:38:19,536 - service - INFO - External call from floor 3 from floor 16, direction up
+2025-03-07 15:38:20,171 - service - INFO - Closing door...
+2025-03-07 15:38:20,676 - service - INFO - Moving up
+2025-03-07 15:38:20,676 - service - INFO - Current Floor: 16
+2025-03-07 15:38:21,679 - service - INFO - Moving up
+2025-03-07 15:38:21,680 - service - INFO - Current Floor: 17
+2025-03-07 15:38:22,682 - service - INFO - Reached 17
+2025-03-07 15:38:22,683 - service - INFO - Intended direction for floor 17: up
+2025-03-07 15:38:22,685 - service - INFO - Opening door...
+2025-03-07 15:38:23,699 - service - INFO - Internal call to floor 6 from floor 17
+2025-03-07 15:38:24,685 - service - INFO - Closing door...
+2025-03-07 15:38:25,191 - service - INFO - Moving up
+2025-03-07 15:38:25,191 - service - INFO - Current Floor: 17
+2025-03-07 15:38:25,593 - service - INFO - External call from floor 16 from floor 17, direction up
+2025-03-07 15:38:26,194 - service - INFO - Moving up
+2025-03-07 15:38:26,194 - service - INFO - Current Floor: 18
+2025-03-07 15:38:27,197 - service - INFO - Moving up
+2025-03-07 15:38:27,197 - service - INFO - Current Floor: 19
+2025-03-07 15:38:28,200 - service - INFO - Moving up
+2025-03-07 15:38:28,200 - service - INFO - Current Floor: 20
+2025-03-07 15:38:29,019 - service - INFO - Internal call to floor 6 from floor 20
+2025-03-07 15:38:29,204 - service - INFO - Reached 20
+2025-03-07 15:38:29,205 - service - INFO - Intended direction for floor 20: down
+2025-03-07 15:38:29,206 - service - INFO - Opening door...
+2025-03-07 15:38:31,208 - service - INFO - Closing door...
+2025-03-07 15:38:31,712 - service - INFO - Moving down
+2025-03-07 15:38:31,713 - service - INFO - Current Floor: 20
+2025-03-07 15:38:32,715 - service - INFO - Moving down
+2025-03-07 15:38:32,715 - service - INFO - Current Floor: 19
+2025-03-07 15:38:33,718 - service - INFO - Moving down
+2025-03-07 15:38:33,718 - service - INFO - Current Floor: 18
+2025-03-07 15:38:33,769 - service - INFO - External call from floor 3 from floor 18, direction down
+2025-03-07 15:38:34,721 - service - INFO - Moving down
+2025-03-07 15:38:34,721 - service - INFO - Current Floor: 17
+2025-03-07 15:38:35,724 - service - INFO - Moving down
+2025-03-07 15:38:35,724 - service - INFO - Current Floor: 16
+2025-03-07 15:38:35,969 - service - INFO - Internal call to floor 13 from floor 16
+2025-03-07 15:38:36,727 - service - INFO - Reached 16
+2025-03-07 15:38:36,729 - service - INFO - Intended direction for floor 16: up
+2025-03-07 15:38:36,731 - service - INFO - Opening door...
+2025-03-07 15:38:37,602 - service - INFO - External call from floor 5 from floor 16, direction up
+2025-03-07 15:38:38,732 - service - INFO - Closing door...
+2025-03-07 15:38:39,238 - service - INFO - Moving down
+2025-03-07 15:38:39,238 - service - INFO - Current Floor: 16
+2025-03-07 15:38:40,241 - service - INFO - Moving down
+2025-03-07 15:38:40,241 - service - INFO - Current Floor: 15
+2025-03-07 15:38:41,014 - service - INFO - External call from floor 1 from floor 15, direction up
+2025-03-07 15:38:41,245 - service - INFO - Moving down
+2025-03-07 15:38:41,246 - service - INFO - Current Floor: 14
+2025-03-07 15:38:42,248 - service - INFO - Moving down
+2025-03-07 15:38:42,249 - service - INFO - Current Floor: 13
+2025-03-07 15:38:43,252 - service - INFO - Reached 13
+2025-03-07 15:38:43,253 - service - INFO - Opening door...
+2025-03-07 15:38:45,253 - service - INFO - Closing door...
+2025-03-07 15:38:45,758 - service - INFO - Moving down
+2025-03-07 15:38:45,759 - service - INFO - Current Floor: 13
+2025-03-07 15:38:46,761 - service - INFO - Moving down
+2025-03-07 15:38:46,761 - service - INFO - Current Floor: 12
+2025-03-07 15:38:47,764 - service - INFO - Moving down
+2025-03-07 15:38:47,765 - service - INFO - Current Floor: 11
+2025-03-07 15:38:48,768 - service - INFO - Moving down
+2025-03-07 15:38:48,768 - service - INFO - Current Floor: 10
+2025-03-07 15:38:49,771 - service - INFO - Moving down
+2025-03-07 15:38:49,772 - service - INFO - Current Floor: 9
+2025-03-07 15:38:50,774 - service - INFO - Moving down
+2025-03-07 15:38:50,775 - service - INFO - Current Floor: 8
+2025-03-07 15:38:50,848 - service - INFO - Internal call to floor 9 from floor 8
+2025-03-07 15:38:51,778 - service - INFO - Reached 8
+2025-03-07 15:38:51,779 - service - INFO - Intended direction for floor 8: up
+2025-03-07 15:38:51,780 - service - INFO - Opening door...
+2025-03-07 15:38:53,781 - service - INFO - Closing door...
+2025-03-07 15:38:54,287 - service - INFO - Moving up
+2025-03-07 15:38:54,288 - service - INFO - Current Floor: 8
+2025-03-07 15:38:55,291 - service - INFO - Moving up
+2025-03-07 15:38:55,291 - service - INFO - Current Floor: 9
+2025-03-07 15:38:56,294 - service - INFO - Reached 9
+2025-03-07 15:38:56,295 - service - INFO - Opening door...
+2025-03-07 15:38:58,296 - service - INFO - Closing door...
+2025-03-07 15:38:58,802 - service - INFO - Moving down
+2025-03-07 15:38:58,803 - service - INFO - Current Floor: 9
+2025-03-07 15:38:59,806 - service - INFO - Moving down
+2025-03-07 15:38:59,806 - service - INFO - Current Floor: 8
+2025-03-07 15:39:00,809 - service - INFO - Moving down
+2025-03-07 15:39:00,809 - service - INFO - Current Floor: 7
+2025-03-07 15:39:01,812 - service - INFO - Moving down
+2025-03-07 15:39:01,813 - service - INFO - Current Floor: 6
+2025-03-07 15:39:02,816 - service - INFO - Reached 6
+2025-03-07 15:39:02,817 - service - INFO - Opening door...
+2025-03-07 15:39:04,819 - service - INFO - Closing door...
+2025-03-07 15:39:05,324 - service - INFO - Moving down
+2025-03-07 15:39:05,324 - service - INFO - Current Floor: 6
+2025-03-07 15:39:06,326 - service - INFO - Moving down
+2025-03-07 15:39:06,327 - service - INFO - Current Floor: 5
+2025-03-07 15:39:07,330 - service - INFO - Reached 5
+2025-03-07 15:39:07,331 - service - INFO - Intended direction for floor 5: up
+2025-03-07 15:39:07,332 - service - INFO - Opening door...
+2025-03-07 15:39:09,334 - service - INFO - Closing door...
+2025-03-07 15:39:09,840 - service - INFO - Moving down
+2025-03-07 15:39:09,841 - service - INFO - Current Floor: 5
+2025-03-07 15:39:10,844 - service - INFO - Moving down
+2025-03-07 15:39:10,844 - service - INFO - Current Floor: 4
+2025-03-07 15:39:11,846 - service - INFO - Moving down
+2025-03-07 15:39:11,847 - service - INFO - Current Floor: 3
+2025-03-07 15:39:12,850 - service - INFO - Reached 3
+2025-03-07 15:39:12,851 - service - INFO - Intended direction for floor 3: down
+2025-03-07 15:39:12,852 - service - INFO - Opening door...
+2025-03-07 15:39:14,853 - service - INFO - Closing door...
+2025-03-07 15:39:15,359 - service - INFO - Moving down
+2025-03-07 15:39:15,359 - service - INFO - Current Floor: 3
+2025-03-07 15:39:16,362 - service - INFO - Moving down
+2025-03-07 15:39:16,363 - service - INFO - Current Floor: 2
+2025-03-07 15:39:17,366 - service - INFO - Reached 2
+2025-03-07 15:39:17,367 - service - INFO - Intended direction for floor 2: up
+2025-03-07 15:39:17,368 - service - INFO - Opening door...
+2025-03-07 15:39:19,370 - service - INFO - Closing door...
+2025-03-07 15:39:19,876 - service - INFO - Moving down
+2025-03-07 15:39:19,877 - service - INFO - Current Floor: 2
+2025-03-07 15:39:20,879 - service - INFO - Moving down
+2025-03-07 15:39:20,879 - service - INFO - Current Floor: 1
+2025-03-07 15:39:21,882 - service - INFO - Reached 1
+2025-03-07 15:39:21,884 - service - INFO - Intended direction for floor 1: up
+2025-03-07 15:39:21,885 - service - INFO - Opening door...
+2025-03-07 15:39:23,886 - service - INFO - Closing door...
+2025-03-07 15:39:24,390 - service - INFO - No more floors to go to
+2025-03-07 15:39:24,391 - service - INFO - Stopping elevator...
+2025-03-07 15:39:24,392 - root - INFO - Stopped elevator
+2025-03-07 15:39:24,392 - root - INFO - Current State: up, Current Floor: 1
+2025-03-07 15:39:24,896 - service - INFO - No more floors to go to
+2025-03-07 15:39:24,896 - service - INFO - Elevator is at idle state, Current Floor: 1
+2025-03-07 15:39:27,401 - service - INFO - No more floors to go to
+2025-03-07 15:39:27,401 - service - INFO - Elevator is at idle state, Current Floor: 1
+2025-03-07 15:39:29,907 - service - INFO - No more floors to go to
+2025-03-07 15:39:29,908 - service - INFO - Elevator is at idle state, Current Floor: 1
+2025-03-07 15:39:32,415 - service - INFO - No more floors to go to
+2025-03-07 15:39:32,415 - service - INFO - Elevator is at idle state, Current Floor: 1
+2025-03-07 15:39:34,922 - service - INFO - No more floors to go to
+2025-03-07 15:39:34,922 - service - INFO - Elevator is at idle state, Current Floor: 1
+2025-03-07 15:39:37,427 - service - INFO - No more floors to go to
+2025-03-07 15:39:37,427 - service - INFO - Elevator is at idle state, Current Floor: 1
+2025-03-07 15:39:39,933 - service - INFO - No more floors to go to
+2025-03-07 15:39:39,933 - service - INFO - Elevator is at idle state, Current Floor: 1
+2025-03-07 15:39:42,440 - service - INFO - No more floors to go to
+2025-03-07 15:39:42,440 - service - INFO - Elevator is at idle state, Current Floor: 1

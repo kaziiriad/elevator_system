@@ -1,0 +1,307 @@
+2025-03-07 15:34:49,389 - ElevatorSim - INFO - Starting elevator simulation with 10 users for 300 seconds
+2025-03-07 15:34:49,397 - ElevatorSim - INFO - Starting elevator service simulation...
+2025-03-07 15:34:49,400 - ElevatorSim - INFO - Elevator service simulation started successfully
+2025-03-07 15:34:49,400 - ElevatorSim - INFO - User 1 created at floor 8
+2025-03-07 15:34:49,401 - ElevatorSim - INFO - User 1 at floor 8 calling elevator to go down
+2025-03-07 15:34:49,401 - ElevatorSim - INFO - User 2 created at floor 16
+2025-03-07 15:34:49,402 - ElevatorSim - INFO - User 2 at floor 16 calling elevator to go down
+2025-03-07 15:34:49,403 - ElevatorSim - INFO - User 3 created at floor 11
+2025-03-07 15:34:49,403 - ElevatorSim - INFO - User 3 at floor 11 calling elevator to go down
+2025-03-07 15:34:49,404 - ElevatorSim - INFO - User 4 created at floor 11
+2025-03-07 15:34:49,405 - ElevatorSim - INFO - User 4 at floor 11 calling elevator to go up
+2025-03-07 15:34:49,405 - ElevatorSim - INFO - User 5 created at floor 13
+2025-03-07 15:34:49,406 - ElevatorSim - INFO - User 5 at floor 13 calling elevator to go down
+2025-03-07 15:34:49,407 - ElevatorSim - INFO - User 6 created at floor 10
+2025-03-07 15:34:49,407 - ElevatorSim - INFO - User 6 at floor 10 calling elevator to go up
+2025-03-07 15:34:49,408 - ElevatorSim - INFO - User 7 created at floor 16
+2025-03-07 15:34:49,408 - ElevatorSim - INFO - User 7 at floor 16 calling elevator to go down
+2025-03-07 15:34:49,409 - ElevatorSim - INFO - User 8 created at floor 5
+2025-03-07 15:34:49,409 - ElevatorSim - INFO - User 8 at floor 5 calling elevator to go up
+2025-03-07 15:34:49,409 - ElevatorSim - INFO - User 9 created at floor 1
+2025-03-07 15:34:49,410 - ElevatorSim - INFO - User 9 at floor 1 calling elevator to go up
+2025-03-07 15:34:49,410 - ElevatorSim - INFO - User 10 created at floor 12
+2025-03-07 15:34:49,411 - ElevatorSim - INFO - User 10 at floor 12 calling elevator to go up
+2025-03-07 15:34:49,457 - ElevatorSim - INFO - User 1 successfully called elevator at floor 8
+2025-03-07 15:34:49,458 - ElevatorSim - INFO - User 1 waiting for elevator at floor 8
+2025-03-07 15:34:49,458 - ElevatorSim - INFO - User 2 successfully called elevator at floor 16
+2025-03-07 15:34:49,459 - ElevatorSim - INFO - User 2 waiting for elevator at floor 16
+2025-03-07 15:34:49,459 - ElevatorSim - INFO - User 4 successfully called elevator at floor 11
+2025-03-07 15:34:49,460 - ElevatorSim - INFO - User 4 waiting for elevator at floor 11
+2025-03-07 15:34:49,461 - ElevatorSim - INFO - User 3 successfully called elevator at floor 11
+2025-03-07 15:34:49,461 - ElevatorSim - INFO - User 3 waiting for elevator at floor 11
+2025-03-07 15:34:49,461 - ElevatorSim - INFO - User 5 successfully called elevator at floor 13
+2025-03-07 15:34:49,462 - ElevatorSim - INFO - User 5 waiting for elevator at floor 13
+2025-03-07 15:34:49,462 - ElevatorSim - INFO - User 9 successfully called elevator at floor 1
+2025-03-07 15:34:49,463 - ElevatorSim - INFO - User 9 waiting for elevator at floor 1
+2025-03-07 15:34:49,463 - ElevatorSim - INFO - User 10 successfully called elevator at floor 12
+2025-03-07 15:34:49,464 - ElevatorSim - INFO - User 10 waiting for elevator at floor 12
+2025-03-07 15:34:49,464 - ElevatorSim - INFO - User 6 successfully called elevator at floor 10
+2025-03-07 15:34:49,465 - ElevatorSim - INFO - User 6 waiting for elevator at floor 10
+2025-03-07 15:34:49,466 - ElevatorSim - INFO - User 7 successfully called elevator at floor 16
+2025-03-07 15:34:49,466 - ElevatorSim - INFO - User 7 waiting for elevator at floor 16
+2025-03-07 15:34:49,467 - ElevatorSim - INFO - User 8 successfully called elevator at floor 5
+2025-03-07 15:34:49,467 - ElevatorSim - INFO - User 8 waiting for elevator at floor 5
+2025-03-07 15:34:55,764 - ElevatorSim - INFO - User 5 entering elevator at floor 13
+2025-03-07 15:34:55,764 - ElevatorSim - INFO - User 5 inside elevator requesting floor 11
+2025-03-07 15:34:55,769 - ElevatorSim - INFO - User 5 successfully requested floor 11
+2025-03-07 15:34:55,770 - ElevatorSim - INFO - User 5 riding elevator to floor 11
+2025-03-07 15:34:57,824 - ElevatorSim - INFO - User 10 entering elevator at floor 12
+2025-03-07 15:34:57,825 - ElevatorSim - INFO - User 10 inside elevator requesting floor 6
+2025-03-07 15:34:57,830 - ElevatorSim - INFO - User 10 successfully requested floor 6
+2025-03-07 15:34:57,831 - ElevatorSim - INFO - User 10 riding elevator to floor 6
+2025-03-07 15:35:04,024 - ElevatorSim - INFO - User 7 entering elevator at floor 16
+2025-03-07 15:35:04,024 - ElevatorSim - INFO - User 7 inside elevator requesting floor 20
+2025-03-07 15:35:04,025 - ElevatorSim - INFO - User 2 entering elevator at floor 16
+2025-03-07 15:35:04,025 - ElevatorSim - INFO - User 2 inside elevator requesting floor 14
+2025-03-07 15:35:04,030 - ElevatorSim - INFO - User 7 successfully requested floor 20
+2025-03-07 15:35:04,030 - ElevatorSim - INFO - User 7 riding elevator to floor 20
+2025-03-07 15:35:04,031 - ElevatorSim - INFO - User 2 successfully requested floor 14
+2025-03-07 15:35:04,032 - ElevatorSim - INFO - User 2 riding elevator to floor 14
+2025-03-07 15:35:10,254 - ElevatorSim - INFO - User 2 exiting elevator at floor 14
+2025-03-07 15:35:10,254 - ElevatorSim - INFO - User 2 waiting 15.6 seconds before next request
+2025-03-07 15:35:16,353 - ElevatorSim - INFO - User 5 exiting elevator at floor 11
+2025-03-07 15:35:16,353 - ElevatorSim - INFO - User 5 waiting 7.1 seconds before next request
+2025-03-07 15:35:16,353 - ElevatorSim - INFO - User 3 entering elevator at floor 11
+2025-03-07 15:35:16,354 - ElevatorSim - INFO - User 3 inside elevator requesting floor 9
+2025-03-07 15:35:16,354 - ElevatorSim - INFO - User 4 entering elevator at floor 11
+2025-03-07 15:35:16,355 - ElevatorSim - INFO - User 4 inside elevator requesting floor 5
+2025-03-07 15:35:16,360 - ElevatorSim - INFO - User 3 successfully requested floor 9
+2025-03-07 15:35:16,360 - ElevatorSim - INFO - User 3 riding elevator to floor 9
+2025-03-07 15:35:16,361 - ElevatorSim - INFO - User 4 successfully requested floor 5
+2025-03-07 15:35:16,362 - ElevatorSim - INFO - User 4 riding elevator to floor 5
+2025-03-07 15:35:20,493 - ElevatorSim - INFO - User 6 entering elevator at floor 10
+2025-03-07 15:35:20,493 - ElevatorSim - INFO - User 6 inside elevator requesting floor 9
+2025-03-07 15:35:20,498 - ElevatorSim - INFO - User 6 successfully requested floor 9
+2025-03-07 15:35:20,499 - ElevatorSim - INFO - User 6 riding elevator to floor 9
+2025-03-07 15:35:23,471 - ElevatorSim - INFO - User 5 at floor 11 calling elevator to go down
+2025-03-07 15:35:23,478 - ElevatorSim - INFO - User 5 successfully called elevator at floor 11
+2025-03-07 15:35:23,479 - ElevatorSim - INFO - User 5 waiting for elevator at floor 11
+2025-03-07 15:35:25,878 - ElevatorSim - INFO - User 2 at floor 14 calling elevator to go up
+2025-03-07 15:35:25,885 - ElevatorSim - INFO - User 2 successfully called elevator at floor 14
+2025-03-07 15:35:25,885 - ElevatorSim - INFO - User 2 waiting for elevator at floor 14
+2025-03-07 15:35:30,792 - ElevatorSim - INFO - User 3 exiting elevator at floor 9
+2025-03-07 15:35:30,793 - ElevatorSim - INFO - User 3 waiting 19.5 seconds before next request
+2025-03-07 15:35:30,812 - ElevatorSim - INFO - User 6 exiting elevator at floor 9
+2025-03-07 15:35:30,813 - ElevatorSim - INFO - User 6 waiting 15.2 seconds before next request
+2025-03-07 15:35:34,893 - ElevatorSim - INFO - User 1 entering elevator at floor 8
+2025-03-07 15:35:34,893 - ElevatorSim - INFO - User 1 inside elevator requesting floor 10
+2025-03-07 15:35:34,899 - ElevatorSim - INFO - User 1 successfully requested floor 10
+2025-03-07 15:35:34,900 - ElevatorSim - INFO - User 1 riding elevator to floor 10
+2025-03-07 15:35:41,043 - ElevatorSim - INFO - User 10 exiting elevator at floor 6
+2025-03-07 15:35:41,043 - ElevatorSim - INFO - User 10 waiting 16.9 seconds before next request
+2025-03-07 15:35:45,141 - ElevatorSim - INFO - User 8 entering elevator at floor 5
+2025-03-07 15:35:45,142 - ElevatorSim - INFO - User 8 inside elevator requesting floor 14
+2025-03-07 15:35:45,150 - ElevatorSim - INFO - User 8 successfully requested floor 14
+2025-03-07 15:35:45,151 - ElevatorSim - INFO - User 8 riding elevator to floor 14
+2025-03-07 15:35:45,182 - ElevatorSim - INFO - User 4 exiting elevator at floor 5
+2025-03-07 15:35:45,182 - ElevatorSim - INFO - User 4 waiting 10.8 seconds before next request
+2025-03-07 15:35:46,014 - ElevatorSim - INFO - User 6 at floor 9 calling elevator to go up
+2025-03-07 15:35:46,024 - ElevatorSim - INFO - User 6 successfully called elevator at floor 9
+2025-03-07 15:35:46,025 - ElevatorSim - INFO - User 6 waiting for elevator at floor 9
+2025-03-07 15:35:50,320 - ElevatorSim - INFO - User 3 at floor 9 calling elevator to go down
+2025-03-07 15:35:50,326 - ElevatorSim - INFO - User 3 successfully called elevator at floor 9
+2025-03-07 15:35:50,327 - ElevatorSim - INFO - User 3 waiting for elevator at floor 9
+2025-03-07 15:35:51,282 - ElevatorSim - WARNING - User 9 gave up waiting after 60 seconds
+2025-03-07 15:35:51,282 - ElevatorSim - INFO - User 9 waiting 19.4 seconds before next request
+2025-03-07 15:35:52,281 - ElevatorSim - INFO - User 6 entering elevator at floor 9
+2025-03-07 15:35:52,282 - ElevatorSim - INFO - User 6 inside elevator requesting floor 11
+2025-03-07 15:35:52,287 - ElevatorSim - INFO - User 6 successfully requested floor 11
+2025-03-07 15:35:52,287 - ElevatorSim - INFO - User 6 riding elevator to floor 11
+2025-03-07 15:35:55,961 - ElevatorSim - INFO - User 4 at floor 5 calling elevator to go up
+2025-03-07 15:35:55,967 - ElevatorSim - INFO - User 4 successfully called elevator at floor 5
+2025-03-07 15:35:55,968 - ElevatorSim - INFO - User 4 waiting for elevator at floor 5
+2025-03-07 15:35:56,541 - ElevatorSim - INFO - User 3 entering elevator at floor 9
+2025-03-07 15:35:56,542 - ElevatorSim - INFO - User 3 inside elevator requesting floor 10
+2025-03-07 15:35:56,547 - ElevatorSim - INFO - User 3 successfully requested floor 10
+2025-03-07 15:35:56,547 - ElevatorSim - INFO - User 3 riding elevator to floor 10
+2025-03-07 15:35:57,917 - ElevatorSim - INFO - User 10 at floor 6 calling elevator to go up
+2025-03-07 15:35:57,923 - ElevatorSim - INFO - User 10 successfully called elevator at floor 6
+2025-03-07 15:35:57,924 - ElevatorSim - INFO - User 10 waiting for elevator at floor 6
+2025-03-07 15:36:05,592 - ElevatorSim - WARNING - User 7 ride timed out after 60 seconds
+2025-03-07 15:36:05,593 - ElevatorSim - INFO - User 7 waiting 6.3 seconds before next request
+2025-03-07 15:36:10,694 - ElevatorSim - INFO - User 9 at floor 1 calling elevator to go up
+2025-03-07 15:36:10,700 - ElevatorSim - INFO - User 9 successfully called elevator at floor 1
+2025-03-07 15:36:10,700 - ElevatorSim - INFO - User 9 waiting for elevator at floor 1
+2025-03-07 15:36:11,915 - ElevatorSim - INFO - User 7 at floor 20 calling elevator to go down
+2025-03-07 15:36:11,921 - ElevatorSim - INFO - User 7 successfully called elevator at floor 20
+2025-03-07 15:36:11,921 - ElevatorSim - INFO - User 7 waiting for elevator at floor 20
+2025-03-07 15:36:12,361 - ElevatorSim - INFO - User 10 entering elevator at floor 6
+2025-03-07 15:36:12,362 - ElevatorSim - INFO - User 10 inside elevator requesting floor 3
+2025-03-07 15:36:12,368 - ElevatorSim - INFO - User 10 successfully requested floor 3
+2025-03-07 15:36:12,368 - ElevatorSim - INFO - User 10 riding elevator to floor 3
+2025-03-07 15:36:20,100 - ElevatorSim - INFO - User 1 exiting elevator at floor 10
+2025-03-07 15:36:20,101 - ElevatorSim - INFO - User 1 waiting 18.0 seconds before next request
+2025-03-07 15:36:21,200 - ElevatorSim - INFO - User 3 exiting elevator at floor 10
+2025-03-07 15:36:21,200 - ElevatorSim - INFO - User 3 waiting 17.9 seconds before next request
+2025-03-07 15:36:25,081 - ElevatorSim - WARNING - User 5 gave up waiting after 60 seconds
+2025-03-07 15:36:25,081 - ElevatorSim - INFO - User 5 waiting 9.5 seconds before next request
+2025-03-07 15:36:25,160 - ElevatorSim - INFO - User 6 exiting elevator at floor 11
+2025-03-07 15:36:25,160 - ElevatorSim - INFO - User 6 waiting 17.1 seconds before next request
+2025-03-07 15:36:27,480 - ElevatorSim - WARNING - User 2 gave up waiting after 60 seconds
+2025-03-07 15:36:27,481 - ElevatorSim - INFO - User 2 waiting 11.3 seconds before next request
+2025-03-07 15:36:32,400 - ElevatorSim - INFO - User 8 exiting elevator at floor 14
+2025-03-07 15:36:32,400 - ElevatorSim - INFO - User 8 waiting 9.7 seconds before next request
+2025-03-07 15:36:34,587 - ElevatorSim - INFO - User 5 at floor 11 calling elevator to go down
+2025-03-07 15:36:34,598 - ElevatorSim - INFO - User 5 successfully called elevator at floor 11
+2025-03-07 15:36:34,598 - ElevatorSim - INFO - User 5 waiting for elevator at floor 11
+2025-03-07 15:36:38,135 - ElevatorSim - INFO - User 1 at floor 10 calling elevator to go up
+2025-03-07 15:36:38,143 - ElevatorSim - INFO - User 1 successfully called elevator at floor 10
+2025-03-07 15:36:38,143 - ElevatorSim - INFO - User 1 waiting for elevator at floor 10
+2025-03-07 15:36:38,764 - ElevatorSim - INFO - User 2 at floor 14 calling elevator to go up
+2025-03-07 15:36:38,771 - ElevatorSim - INFO - User 2 successfully called elevator at floor 14
+2025-03-07 15:36:38,772 - ElevatorSim - INFO - User 2 waiting for elevator at floor 14
+2025-03-07 15:36:39,067 - ElevatorSim - INFO - User 3 at floor 10 calling elevator to go up
+2025-03-07 15:36:39,074 - ElevatorSim - INFO - User 3 successfully called elevator at floor 10
+2025-03-07 15:36:39,074 - ElevatorSim - INFO - User 3 waiting for elevator at floor 10
+2025-03-07 15:36:40,760 - ElevatorSim - INFO - User 7 entering elevator at floor 20
+2025-03-07 15:36:40,760 - ElevatorSim - INFO - User 7 inside elevator requesting floor 13
+2025-03-07 15:36:40,766 - ElevatorSim - INFO - User 7 successfully requested floor 13
+2025-03-07 15:36:40,766 - ElevatorSim - INFO - User 7 riding elevator to floor 13
+2025-03-07 15:36:42,055 - ElevatorSim - INFO - User 8 at floor 14 calling elevator to go down
+2025-03-07 15:36:42,061 - ElevatorSim - INFO - User 8 successfully called elevator at floor 14
+2025-03-07 15:36:42,062 - ElevatorSim - INFO - User 8 waiting for elevator at floor 14
+2025-03-07 15:36:42,276 - ElevatorSim - INFO - User 6 at floor 11 calling elevator to go down
+2025-03-07 15:36:42,283 - ElevatorSim - INFO - User 6 successfully called elevator at floor 11
+2025-03-07 15:36:42,283 - ElevatorSim - INFO - User 6 waiting for elevator at floor 11
+2025-03-07 15:36:50,359 - ElevatorSim - INFO - User 8 entering elevator at floor 14
+2025-03-07 15:36:50,360 - ElevatorSim - INFO - User 8 inside elevator requesting floor 2
+2025-03-07 15:36:50,365 - ElevatorSim - INFO - User 8 successfully requested floor 2
+2025-03-07 15:36:50,365 - ElevatorSim - INFO - User 8 riding elevator to floor 2
+2025-03-07 15:36:51,169 - ElevatorSim - INFO - User 2 entering elevator at floor 14
+2025-03-07 15:36:51,170 - ElevatorSim - INFO - User 2 inside elevator requesting floor 16
+2025-03-07 15:36:51,175 - ElevatorSim - INFO - User 2 successfully requested floor 16
+2025-03-07 15:36:51,176 - ElevatorSim - INFO - User 2 riding elevator to floor 16
+2025-03-07 15:36:55,199 - ElevatorSim - INFO - User 7 exiting elevator at floor 13
+2025-03-07 15:36:55,200 - ElevatorSim - INFO - User 7 waiting 6.0 seconds before next request
+2025-03-07 15:36:57,540 - ElevatorSim - WARNING - User 4 gave up waiting after 60 seconds
+2025-03-07 15:36:57,541 - ElevatorSim - INFO - User 4 waiting 19.9 seconds before next request
+2025-03-07 15:37:00,849 - ElevatorSim - INFO - User 6 entering elevator at floor 11
+2025-03-07 15:37:00,850 - ElevatorSim - INFO - User 6 inside elevator requesting floor 3
+2025-03-07 15:37:00,854 - ElevatorSim - INFO - User 6 successfully requested floor 3
+2025-03-07 15:37:00,855 - ElevatorSim - INFO - User 6 riding elevator to floor 3
+2025-03-07 15:37:01,176 - ElevatorSim - INFO - User 7 at floor 13 calling elevator to go up
+2025-03-07 15:37:01,182 - ElevatorSim - INFO - User 7 successfully called elevator at floor 13
+2025-03-07 15:37:01,183 - ElevatorSim - INFO - User 7 waiting for elevator at floor 13
+2025-03-07 15:37:01,369 - ElevatorSim - INFO - User 5 entering elevator at floor 11
+2025-03-07 15:37:01,370 - ElevatorSim - INFO - User 5 inside elevator requesting floor 17
+2025-03-07 15:37:01,375 - ElevatorSim - INFO - User 5 successfully requested floor 17
+2025-03-07 15:37:01,375 - ElevatorSim - INFO - User 5 riding elevator to floor 17
+2025-03-07 15:37:04,929 - ElevatorSim - INFO - User 1 entering elevator at floor 10
+2025-03-07 15:37:04,930 - ElevatorSim - INFO - User 1 inside elevator requesting floor 20
+2025-03-07 15:37:04,936 - ElevatorSim - INFO - User 1 successfully requested floor 20
+2025-03-07 15:37:04,937 - ElevatorSim - INFO - User 1 riding elevator to floor 20
+2025-03-07 15:37:05,849 - ElevatorSim - INFO - User 3 entering elevator at floor 10
+2025-03-07 15:37:05,850 - ElevatorSim - INFO - User 3 inside elevator requesting floor 12
+2025-03-07 15:37:05,855 - ElevatorSim - INFO - User 3 successfully requested floor 12
+2025-03-07 15:37:05,855 - ElevatorSim - INFO - User 3 riding elevator to floor 12
+2025-03-07 15:37:12,059 - ElevatorSim - INFO - User 3 exiting elevator at floor 12
+2025-03-07 15:37:12,060 - ElevatorSim - INFO - User 3 waiting 15.6 seconds before next request
+2025-03-07 15:37:12,270 - ElevatorSim - WARNING - User 9 gave up waiting after 60 seconds
+2025-03-07 15:37:12,270 - ElevatorSim - INFO - User 9 waiting 13.2 seconds before next request
+2025-03-07 15:37:13,940 - ElevatorSim - WARNING - User 10 ride timed out after 60 seconds
+2025-03-07 15:37:13,940 - ElevatorSim - INFO - User 10 waiting 12.0 seconds before next request
+2025-03-07 15:37:15,658 - ElevatorSim - INFO - User 7 entering elevator at floor 13
+2025-03-07 15:37:15,659 - ElevatorSim - INFO - User 7 inside elevator requesting floor 10
+2025-03-07 15:37:15,664 - ElevatorSim - INFO - User 7 successfully requested floor 10
+2025-03-07 15:37:15,664 - ElevatorSim - INFO - User 7 riding elevator to floor 10
+2025-03-07 15:37:17,446 - ElevatorSim - INFO - User 4 at floor 5 calling elevator to go up
+2025-03-07 15:37:17,453 - ElevatorSim - INFO - User 4 successfully called elevator at floor 5
+2025-03-07 15:37:17,453 - ElevatorSim - INFO - User 4 waiting for elevator at floor 5
+2025-03-07 15:37:22,018 - ElevatorSim - INFO - User 2 exiting elevator at floor 16
+2025-03-07 15:37:22,019 - ElevatorSim - INFO - User 2 waiting 17.9 seconds before next request
+2025-03-07 15:37:25,480 - ElevatorSim - INFO - User 9 at floor 1 calling elevator to go up
+2025-03-07 15:37:25,487 - ElevatorSim - INFO - User 9 successfully called elevator at floor 1
+2025-03-07 15:37:25,487 - ElevatorSim - INFO - User 9 waiting for elevator at floor 1
+2025-03-07 15:37:25,989 - ElevatorSim - INFO - User 10 at floor 3 calling elevator to go up
+2025-03-07 15:37:25,995 - ElevatorSim - INFO - User 10 successfully called elevator at floor 3
+2025-03-07 15:37:25,996 - ElevatorSim - INFO - User 10 waiting for elevator at floor 3
+2025-03-07 15:37:26,048 - ElevatorSim - INFO - User 5 exiting elevator at floor 17
+2025-03-07 15:37:26,049 - ElevatorSim - INFO - User 5 waiting 18.6 seconds before next request
+2025-03-07 15:37:27,687 - ElevatorSim - INFO - User 3 at floor 12 calling elevator to go down
+2025-03-07 15:37:27,693 - ElevatorSim - INFO - User 3 successfully called elevator at floor 12
+2025-03-07 15:37:27,694 - ElevatorSim - INFO - User 3 waiting for elevator at floor 12
+2025-03-07 15:37:33,728 - ElevatorSim - INFO - User 1 exiting elevator at floor 20
+2025-03-07 15:37:33,729 - ElevatorSim - INFO - User 1 waiting 12.1 seconds before next request
+2025-03-07 15:37:39,922 - ElevatorSim - INFO - User 2 at floor 16 calling elevator to go down
+2025-03-07 15:37:39,932 - ElevatorSim - ERROR - Failed to call elevator: 500 - {"detail":"Failed to process request: local variable 'pickup_queue' referenced before assignment"}
+2025-03-07 15:37:39,932 - ElevatorSim - INFO - User 2 waiting 11.7 seconds before next request
+2025-03-07 15:37:44,197 - ElevatorSim - INFO - User 3 entering elevator at floor 12
+2025-03-07 15:37:44,198 - ElevatorSim - INFO - User 3 inside elevator requesting floor 8
+2025-03-07 15:37:44,202 - ElevatorSim - INFO - User 3 successfully requested floor 8
+2025-03-07 15:37:44,203 - ElevatorSim - INFO - User 3 riding elevator to floor 8
+2025-03-07 15:37:44,601 - ElevatorSim - INFO - User 5 at floor 17 calling elevator to go up
+2025-03-07 15:37:44,607 - ElevatorSim - INFO - User 5 successfully called elevator at floor 17
+2025-03-07 15:37:44,608 - ElevatorSim - INFO - User 5 waiting for elevator at floor 17
+2025-03-07 15:37:45,790 - ElevatorSim - INFO - User 1 at floor 20 calling elevator to go down
+2025-03-07 15:37:45,797 - ElevatorSim - INFO - User 1 successfully called elevator at floor 20
+2025-03-07 15:37:45,797 - ElevatorSim - INFO - User 1 waiting for elevator at floor 20
+2025-03-07 15:37:50,587 - ElevatorSim - INFO - User 7 exiting elevator at floor 10
+2025-03-07 15:37:50,588 - ElevatorSim - INFO - User 7 waiting 10.0 seconds before next request
+2025-03-07 15:37:51,619 - ElevatorSim - INFO - User 2 at floor 16 calling elevator to go up
+2025-03-07 15:37:51,627 - ElevatorSim - INFO - User 2 successfully called elevator at floor 16
+2025-03-07 15:37:51,628 - ElevatorSim - INFO - User 2 waiting for elevator at floor 16
+2025-03-07 15:37:51,919 - ElevatorSim - WARNING - User 8 ride timed out after 60 seconds
+2025-03-07 15:37:51,919 - ElevatorSim - INFO - User 8 waiting 16.0 seconds before next request
+2025-03-07 15:37:56,567 - ElevatorSim - INFO - User 3 exiting elevator at floor 8
+2025-03-07 15:37:56,568 - ElevatorSim - INFO - User 3 waiting 11.1 seconds before next request
+2025-03-07 15:38:00,539 - ElevatorSim - INFO - User 7 at floor 10 calling elevator to go up
+2025-03-07 15:38:00,546 - ElevatorSim - INFO - User 7 successfully called elevator at floor 10
+2025-03-07 15:38:00,546 - ElevatorSim - INFO - User 7 waiting for elevator at floor 10
+2025-03-07 15:38:02,388 - ElevatorSim - WARNING - User 6 ride timed out after 60 seconds
+2025-03-07 15:38:02,388 - ElevatorSim - INFO - User 6 waiting 17.1 seconds before next request
+2025-03-07 15:38:07,676 - ElevatorSim - INFO - User 3 at floor 8 calling elevator to go up
+2025-03-07 15:38:07,682 - ElevatorSim - INFO - User 3 successfully called elevator at floor 8
+2025-03-07 15:38:07,683 - ElevatorSim - INFO - User 3 waiting for elevator at floor 8
+2025-03-07 15:38:07,963 - ElevatorSim - INFO - User 8 at floor 2 calling elevator to go up
+2025-03-07 15:38:07,970 - ElevatorSim - INFO - User 8 successfully called elevator at floor 2
+2025-03-07 15:38:07,971 - ElevatorSim - INFO - User 8 waiting for elevator at floor 2
+2025-03-07 15:38:08,857 - ElevatorSim - INFO - User 7 entering elevator at floor 10
+2025-03-07 15:38:08,858 - ElevatorSim - INFO - User 7 inside elevator requesting floor 16
+2025-03-07 15:38:08,863 - ElevatorSim - INFO - User 7 successfully requested floor 16
+2025-03-07 15:38:08,863 - ElevatorSim - INFO - User 7 riding elevator to floor 16
+2025-03-07 15:38:18,396 - ElevatorSim - INFO - User 2 entering elevator at floor 16
+2025-03-07 15:38:18,397 - ElevatorSim - INFO - User 2 inside elevator requesting floor 2
+2025-03-07 15:38:18,402 - ElevatorSim - INFO - User 2 successfully requested floor 2
+2025-03-07 15:38:18,402 - ElevatorSim - INFO - User 2 riding elevator to floor 2
+2025-03-07 15:38:19,068 - ElevatorSim - WARNING - User 4 gave up waiting after 60 seconds
+2025-03-07 15:38:19,068 - ElevatorSim - INFO - User 4 waiting 18.5 seconds before next request
+2025-03-07 15:38:19,176 - ElevatorSim - INFO - User 7 exiting elevator at floor 16
+2025-03-07 15:38:19,177 - ElevatorSim - INFO - User 7 waiting 6.4 seconds before next request
+2025-03-07 15:38:19,533 - ElevatorSim - INFO - User 6 at floor 3 calling elevator to go up
+2025-03-07 15:38:19,539 - ElevatorSim - INFO - User 6 successfully called elevator at floor 3
+2025-03-07 15:38:19,540 - ElevatorSim - INFO - User 6 waiting for elevator at floor 3
+2025-03-07 15:38:23,696 - ElevatorSim - INFO - User 5 entering elevator at floor 17
+2025-03-07 15:38:23,697 - ElevatorSim - INFO - User 5 inside elevator requesting floor 6
+2025-03-07 15:38:23,702 - ElevatorSim - INFO - User 5 successfully requested floor 6
+2025-03-07 15:38:23,702 - ElevatorSim - INFO - User 5 riding elevator to floor 6
+2025-03-07 15:38:25,590 - ElevatorSim - INFO - User 7 at floor 16 calling elevator to go up
+2025-03-07 15:38:25,597 - ElevatorSim - INFO - User 7 successfully called elevator at floor 16
+2025-03-07 15:38:25,597 - ElevatorSim - INFO - User 7 waiting for elevator at floor 16
+2025-03-07 15:38:27,127 - ElevatorSim - WARNING - User 9 gave up waiting after 60 seconds
+2025-03-07 15:38:27,127 - ElevatorSim - INFO - User 9 waiting 13.9 seconds before next request
+2025-03-07 15:38:27,597 - ElevatorSim - WARNING - User 10 gave up waiting after 60 seconds
+2025-03-07 15:38:27,598 - ElevatorSim - INFO - User 10 waiting 6.2 seconds before next request
+2025-03-07 15:38:29,017 - ElevatorSim - INFO - User 1 entering elevator at floor 20
+2025-03-07 15:38:29,017 - ElevatorSim - INFO - User 1 inside elevator requesting floor 6
+2025-03-07 15:38:29,022 - ElevatorSim - INFO - User 1 successfully requested floor 6
+2025-03-07 15:38:29,022 - ElevatorSim - INFO - User 1 riding elevator to floor 6
+2025-03-07 15:38:33,766 - ElevatorSim - INFO - User 10 at floor 3 calling elevator to go down
+2025-03-07 15:38:33,773 - ElevatorSim - INFO - User 10 successfully called elevator at floor 3
+2025-03-07 15:38:33,773 - ElevatorSim - INFO - User 10 waiting for elevator at floor 3
+2025-03-07 15:38:35,966 - ElevatorSim - INFO - User 7 entering elevator at floor 16
+2025-03-07 15:38:35,967 - ElevatorSim - INFO - User 7 inside elevator requesting floor 13
+2025-03-07 15:38:35,971 - ElevatorSim - INFO - User 7 successfully requested floor 13
+2025-03-07 15:38:35,972 - ElevatorSim - INFO - User 7 riding elevator to floor 13
+2025-03-07 15:38:37,599 - ElevatorSim - INFO - User 4 at floor 5 calling elevator to go up
+2025-03-07 15:38:37,605 - ElevatorSim - INFO - User 4 successfully called elevator at floor 5
+2025-03-07 15:38:37,606 - ElevatorSim - INFO - User 4 waiting for elevator at floor 5
+2025-03-07 15:38:41,011 - ElevatorSim - INFO - User 9 at floor 1 calling elevator to go up
+2025-03-07 15:38:41,018 - ElevatorSim - INFO - User 9 successfully called elevator at floor 1
+2025-03-07 15:38:41,018 - ElevatorSim - INFO - User 9 waiting for elevator at floor 1
+2025-03-07 15:38:44,245 - ElevatorSim - INFO - User 7 exiting elevator at floor 13
+2025-03-07 15:38:44,245 - ElevatorSim - INFO - User 7 waiting 15.8 seconds before next request
+2025-03-07 15:38:50,845 - ElevatorSim - INFO - User 3 entering elevator at floor 8
+2025-03-07 15:38:50,846 - ElevatorSim - INFO - User 3 inside elevator requesting floor 9
+2025-03-07 15:38:50,850 - ElevatorSim - INFO - User 3 successfully requested floor 9
+2025-03-07 15:38:50,851 - ElevatorSim - INFO - User 3 riding elevator to floor 9
+2025-03-07 15:38:56,338 - ElevatorSim - INFO - Simulation interrupted by user
